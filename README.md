@@ -1,19 +1,19 @@
 ## Hello World!
 
 <a href="https://twitter.com/muradyf">
-  <img align="left" alt="Murad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/twitter.svg" />
+  <img align="left" alt="Murad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/muradyf/">
-  <img align="left" alt="Murad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.3/icons/linkedin.svg" />
+  <img align="left" alt="Murad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/muradyf">
-  <img align="left" alt="Murad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/github.svg" />
+  <img align="left" alt="Murad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/c/perseusss">
-  <img align="left" alt="Murad's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/youtube.svg" />
+  <img align="left" alt="Murad's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 <a href="https://www.behance.net/muradyf">
-  <img align="left" alt="Murad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3.13.0/icons/behance.svg" />
+  <img align="left" alt="Murad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
 </a>
 <br />
 
