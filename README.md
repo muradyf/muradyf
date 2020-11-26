@@ -15,9 +15,17 @@
 <a href="https://www.behance.net/muradyf">
   <img align="left" alt="Murad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/behance.svg" />
 </a>
+<a href="mailto:muradyf@outlook.com">
+  <img align="left" alt="Murad's Outlook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftoutlook.svg" />
+</a>
 <br />
 
 ### I am Murad Yousuf
 Grounded and solution-oriented Computer Scientist and Graphic Designer with a wide variety of professional experiences. Adept at motivating self and others. Passionate about Artificial Intelligence, Machine Learning, Data Science, Human-Computer Interaction, and educating the next generation of technology users and innovators.
+
+### Technical Competence
+- Programming Languages: 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=muradyf&show_icons=true)
 
 From [Murad Yousuf](https://github.com/muradyf)
