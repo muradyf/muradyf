@@ -25,7 +25,7 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
 
 ### Technical Competence
 - Programming Languages:
-  - <img align="left" alt="Murad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> Python
+  - <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /> <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" /> <img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" /> <img align="left" alt="MATLAB" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/matlab.svg" /> <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/sql.svg" /> <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html.svg" /> <img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css.svg" /> <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
 
 
 From [Murad Yousuf](https://github.com/muradyf)
