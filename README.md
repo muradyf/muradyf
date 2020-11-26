@@ -28,7 +28,7 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
   - ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python)
     ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
     ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-    ![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=c#)
+    ![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=C#)
     ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB)
     ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
     ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
