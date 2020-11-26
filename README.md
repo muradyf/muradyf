@@ -27,11 +27,11 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
 - Programming Languages:
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
     ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-    ![C++](https://img.shields.io/badge/-Cplusplus-333333?style=flat&logo=cplusplus)
-    ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
+    ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+    ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
     ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
     ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+    ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html)
     ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
     ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
 
