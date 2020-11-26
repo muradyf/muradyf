@@ -26,13 +26,13 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
 ### Technical Competence
 - Programming Languages:
   - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-    ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-    ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
-    ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=csharp)
+    ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
+    ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+    ![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
     ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab)
-    ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-    ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html)
-    ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
-    ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
+    ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
+    ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+    ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+    ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 From [Murad Yousuf](https://github.com/muradyf)
