@@ -22,18 +22,3 @@
 
 ### I am Murad Yousuf
 Grounded and solution-oriented Computer Scientist and Graphic Designer with a wide variety of professional experiences. Adept at motivating self and others. Passionate about Artificial Intelligence, Machine Learning, Data Science, Human-Computer Interaction, and educating the next generation of technology users and innovators.
-
-### Technical Competence
-- Programming Languages:
-    ![Python](https://img.shields.io/python/v/python.svg?logo=python)
-  - ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-    ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C&logoColor=ffffff)
-    ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=ffffff)
-    ![C#](https://img.shields.io/badge/-C#-000000?style=for-the-badge&logo=C%23%23&logoColor=ffffff)
-    ![MATLAB](https://img.shields.io/badge/-MATLAB-000000?style=for-the-badge&logo=MATLAB)
-    ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL&logoColor=ffffff)
-    ![HTML](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=ffffff)
-    ![CSS](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff)
-    ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-
-From [Murad Yousuf](https://github.com/muradyf)
