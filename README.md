@@ -10,10 +10,10 @@
   <img align="left" alt="Murad's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.youtube.com/c/perseusss">
-  <img align="left" alt="Murad's YouTube" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
+  <img align="left" alt="Murad's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 
 ### I am Murad Yousuf
 Grounded and solution-oriented Computer Scientist and Graphic Designer with a wide variety of professional experiences. Adept at motivating self and others. Passionate about Artificial Intelligence, Machine Learning, Data Science, Human-Computer Interaction, and educating the next generation of technology users and innovators.
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+⭐️ From [Murad Yousuf](https://github.com/muradyf)
