@@ -24,8 +24,8 @@
 Grounded and solution-oriented Computer Scientist and Graphic Designer with a wide variety of professional experiences. Adept at motivating self and others. Passionate about Artificial Intelligence, Machine Learning, Data Science, Human-Computer Interaction, and educating the next generation of technology users and innovators.
 
 ### Technical Competence
-- Programming Languages: 
+- Programming Languages:
+  - <img align="left" alt="Murad's Behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> Python
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muradyf&show_icons=true)
 
 From [Murad Yousuf](https://github.com/muradyf)
