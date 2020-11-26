@@ -25,7 +25,14 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
 
 ### Technical Competence
 - Programming Languages:
-  - <img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" /> <img align="left" alt="C" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/c.svg" /> <img align="left" alt="C++" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg" /> <img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" /> <img align="left" alt="MATLAB" width="22px" src="http://cdn.onlinewebfonts.com/svg/download_437041.svg" /> <img align="left" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg" /> <img align="left" alt="HTML" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" /> <img align="left" alt="CSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" /> <img align="left" alt="Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/git.svg" />
-
+  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+    ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+    ![C++](https://img.shields.io/badge/-cplusplus-333333?style=flat&logo=cplusplus)
+    ![C#](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+    ![MATLAB](https://img.shields.io/badge/-matlab-333333?style=flat&logo=matlab)
+    ![MySQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+    ![HTML](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
+    ![CSS](https://img.shields.io/badge/-css-333333?style=flat&logo=css)
+    ![Git](https://img.shields.io/badge/-git-333333?style=flat&logo=git)
 
 From [Murad Yousuf](https://github.com/muradyf)
