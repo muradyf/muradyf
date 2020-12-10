@@ -5,7 +5,7 @@ Grounded and solution-oriented Computer Scientist and Graphic Designer with a wi
 
 <br />
 <a href="https://twitter.com/muradyf">
-  <img align="left" alt="Murad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" style="color:#ffffff"/>
+  <img align="left" alt="Murad's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" fill="#000000"/>
 </a>
 <a href="https://www.linkedin.com/in/muradyf/">
   <img align="left" alt="Murad's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />
